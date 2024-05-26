@@ -15,3 +15,8 @@ To successfully run the provided JavaFX code, you need to configure JavaFX in yo
 4. **Ensure correct JavaFX version**: Make sure that the version of JavaFX you're using matches the version expected by your code. Incompatibilities between versions may cause runtime errors.
 
 By configuring JavaFX properly in your development environment, you'll be able to compile and run the provided JavaFX code successfully, enabling you to interact with the simulated TV remote control interface.
+
+# Code Demonstration
+
+https://github.com/mfahdk/Java_TVGui/assets/158589984/504e519b-65fd-4e81-bdf6-21410efa2826
+
