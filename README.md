@@ -18,5 +18,6 @@ By configuring JavaFX properly in your development environment, you'll be able t
 
 # Code Demonstration
 
-https://github.com/mfahdk/Java_TVGui/assets/158589984/504e519b-65fd-4e81-bdf6-21410efa2826
+![JavaFX](https://github.com/mfahdk/Java_TVGui/assets/158589984/6ee2109b-cbb0-4bef-aba4-9ba36edce515)
+
 
